@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# AI Models & Cache
+models/
+*.gguf
+*.zip
+*.tar.bz2
+
+# Node & Tauri
+node_modules/
+dist/
+src-tauri/target/
+
+# OS Files
+.DS_Store
+Thumbs.db
